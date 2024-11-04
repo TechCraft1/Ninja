@@ -1,3 +1,5 @@
+--script_key = "";
+
 --getgenv().Settings = {
     --FPSLimit = 10,
    --UseEventEggs = false,
